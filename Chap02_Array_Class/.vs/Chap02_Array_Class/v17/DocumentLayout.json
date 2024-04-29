@@ -7,6 +7,14 @@
       "RelativeMoniker": "D:0:0:{0369EE0C-D81E-4977-B9EC-4C8F99604901}|Chap02_Class_Example\\Chap02_Class_Example.vcxproj|solutionrelative:Chap02_Class_Example\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{0369EE0C-D81E-4977-B9EC-4C8F99604901}|Chap02_Class_Example\\Chap02_Class_Example.vcxproj|C:\\Users\\USER\\Documents\\date-structure-lab-2024\\Chap02_Array_Class\\Chap02_Class_Example\\music.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0369EE0C-D81E-4977-B9EC-4C8F99604901}|Chap02_Class_Example\\Chap02_Class_Example.vcxproj|solutionrelative:Chap02_Class_Example\\music.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0369EE0C-D81E-4977-B9EC-4C8F99604901}|Chap02_Class_Example\\Chap02_Class_Example.vcxproj|C:\\Users\\USER\\Documents\\date-structure-lab-2024\\Chap02_Array_Class\\Chap02_Class_Example\\smarthome.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0369EE0C-D81E-4977-B9EC-4C8F99604901}|Chap02_Class_Example\\Chap02_Class_Example.vcxproj|solutionrelative:Chap02_Class_Example\\smarthome.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0369EE0C-D81E-4977-B9EC-4C8F99604901}|Chap02_Class_Example\\Chap02_Class_Example.vcxproj|C:\\Users\\USER\\Documents\\date-structure-lab-2024\\Chap02_Array_Class\\Chap02_Class_Example\\rectangle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{0369EE0C-D81E-4977-B9EC-4C8F99604901}|Chap02_Class_Example\\Chap02_Class_Example.vcxproj|solutionrelative:Chap02_Class_Example\\rectangle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -36,7 +44,7 @@
               "RelativeDocumentMoniker": "Chap02_Class_Example\\main.cpp",
               "ToolTip": "C:\\Users\\USER\\Documents\\date-structure-lab-2024\\Chap02_Array_Class\\Chap02_Class_Example\\main.cpp",
               "RelativeToolTip": "Chap02_Class_Example\\main.cpp",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAAAlAAAA",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAA8AAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-04-08T02:35:57.808Z",
               "IsPinned": true,
@@ -44,13 +52,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "car.h",
               "DocumentMoniker": "C:\\Users\\USER\\Documents\\date-structure-lab-2024\\Chap02_Array_Class\\Chap02_Class_Example\\car.h",
               "RelativeDocumentMoniker": "Chap02_Class_Example\\car.h",
               "ToolTip": "C:\\Users\\USER\\Documents\\date-structure-lab-2024\\Chap02_Array_Class\\Chap02_Class_Example\\car.h",
               "RelativeToolTip": "Chap02_Class_Example\\car.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAALAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-04-08T02:22:56.477Z",
               "IsPinned": true,
@@ -59,19 +67,45 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "music.h",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\date-structure-lab-2024\\Chap02_Array_Class\\Chap02_Class_Example\\music.h",
+              "RelativeDocumentMoniker": "Chap02_Class_Example\\music.h",
+              "ToolTip": "C:\\Users\\USER\\Documents\\date-structure-lab-2024\\Chap02_Array_Class\\Chap02_Class_Example\\music.h",
+              "RelativeToolTip": "Chap02_Class_Example\\music.h",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAAEAAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-15T02:35:18.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "smarthome.h",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\date-structure-lab-2024\\Chap02_Array_Class\\Chap02_Class_Example\\smarthome.h",
+              "RelativeDocumentMoniker": "Chap02_Class_Example\\smarthome.h",
+              "ToolTip": "C:\\Users\\USER\\Documents\\date-structure-lab-2024\\Chap02_Array_Class\\Chap02_Class_Example\\smarthome.h",
+              "RelativeToolTip": "Chap02_Class_Example\\smarthome.h",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAADAAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-15T02:10:36.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "rectangle.h",
               "DocumentMoniker": "C:\\Users\\USER\\Documents\\date-structure-lab-2024\\Chap02_Array_Class\\Chap02_Class_Example\\rectangle.h",
               "RelativeDocumentMoniker": "Chap02_Class_Example\\rectangle.h",
               "ToolTip": "C:\\Users\\USER\\Documents\\date-structure-lab-2024\\Chap02_Array_Class\\Chap02_Class_Example\\rectangle.h",
               "RelativeToolTip": "Chap02_Class_Example\\rectangle.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAACAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-04-08T03:34:21.053Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "sportscar.h",
               "DocumentMoniker": "C:\\Users\\USER\\Documents\\date-structure-lab-2024\\Chap02_Array_Class\\Chap02_Class_Example\\sportscar.h",
               "RelativeDocumentMoniker": "Chap02_Class_Example\\sportscar.h",

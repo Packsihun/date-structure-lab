@@ -1,3 +1,16 @@
 ﻿  main.cpp
-C:\Users\USER\Documents\date-structure-lab-2024\Chap02_Array_Class\Chap02_Class_Example\main.cpp(6,13): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
-  Chap02_Class_Example.vcxproj -> C:\Users\USER\Documents\date-structure-lab-2024\Chap02_Array_Class\x64\Debug\Chap02_Class_Example.exe
+C:\Users\USER\Documents\date-structure-lab-2024\Chap02_Array_Class\Chap02_Class_Example\smarthome.h(21,5): error C2535: 'SmartHome::SmartHome(std::string,int,int,bool)': 멤버 함수를 이미 정의했거나 선언했습니다.
+  (소스 파일 'main.cpp'을(를) 컴파일하는 중)
+  C:\Users\USER\Documents\date-structure-lab-2024\Chap02_Array_Class\Chap02_Class_Example\smarthome.h(14,5):
+  'SmartHome::SmartHome' 선언을 참조하십시오.
+  
+C:\Users\USER\Documents\date-structure-lab-2024\Chap02_Array_Class\Chap02_Class_Example\smarthome.h(23,9): error C2664: 'char *strcpy(char *,const char *)': 인수 1을(를) 'std::string'에서 'char *'(으)로 변환할 수 없습니다.
+  (소스 파일 'main.cpp'을(를) 컴파일하는 중)
+  C:\Users\USER\Documents\date-structure-lab-2024\Chap02_Array_Class\Chap02_Class_Example\smarthome.h(23,16):
+  이 변환을 수행할 수 있는 사용 가능한 사용자 정의 변환 연산자가 없거나 연산자를 호출할 수 없습니다.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\string.h(130,1):
+  'strcpy' 선언을 참조하십시오.
+  C:\Users\USER\Documents\date-structure-lab-2024\Chap02_Array_Class\Chap02_Class_Example\smarthome.h(23,9):
+  인수 목록 '(std::string, std::string)'을(를) 일치시키는 동안
+  
+C:\Users\USER\Documents\date-structure-lab-2024\Chap02_Array_Class\Chap02_Class_Example\main.cpp(7,13): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.

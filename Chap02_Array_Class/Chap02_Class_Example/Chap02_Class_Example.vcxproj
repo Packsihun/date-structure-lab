@@ -129,7 +129,9 @@
   <ItemGroup>
     <ClInclude Include="car.h" />
     <ClInclude Include="Complex.h" />
+    <ClInclude Include="music.h" />
     <ClInclude Include="rectangle.h" />
+    <ClInclude Include="smarthome.h" />
     <ClInclude Include="sportscar.h" />
   </ItemGroup>
   <ItemGroup>
